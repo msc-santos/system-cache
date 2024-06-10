@@ -24,13 +24,14 @@ System Cache é um projeto desenvolvido em Node.js utilizando o framework Expres
 ## Estrutura
 
 system-cache/
-│
-├── node_modules/ # Dependências instaladas
-├── routes.js # Definição das rotas da aplicação
-├── .gitignore # Arquivos e diretórios a serem ignorados pelo Git
-├── package.json # Informações do projeto e dependências
-├── App.js/Index.js # Arquivo principal do servidor
-└── README.md # Documentação do projeto
+
+- │
+- ├── node_modules/ # Dependências instaladas
+- ├── routes.js # Definição das rotas da aplicação
+- ├── .gitignore # Arquivos e diretórios a serem ignorados pelo Git
+- ├── package.json # Informações do projeto e dependências
+- ├── App.js/Index.js # Arquivo principal do servidor
+- └── README.md # Documentação do projeto
 
 ## Endpoints
 
